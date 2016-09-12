@@ -1,0 +1,6 @@
+[user]
+name = aaa
+[push]
+default = matching
+[core]
+excludesfile =/Users/aaa/Desktop/工作文档/Git/OC888/HRJ/.gitignore_global
